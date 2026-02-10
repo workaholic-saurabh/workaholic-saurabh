@@ -1,5 +1,4 @@
-## Hi there 👋
-I'm Saurabh Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Saurabh Chaudhary</h1>
 <h3 align="center">Linux Administrator | DevOps Engineer</h3>
 
 <p align="center">
@@ -36,7 +35,7 @@ I'm Saurabh Chaudhary</h1>
 
 ## 🛠 Languages and Tools:
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Linux+Administrator;DevOps+Engineer;OpenShift+Enthusiast&center=true&width=500" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,git,ansible,terraform,aws,azure" />
 </p>
 
 ---
