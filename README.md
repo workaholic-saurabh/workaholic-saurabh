@@ -50,9 +50,8 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=workaholic-saurabh&show_icons=true&theme=default" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=workaholic-saurabh)
+
 
 ---
 
