@@ -1,16 +1,60 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurabh Chaudhary</h1>
+<h3 align="center">Linux Administrator | DevOps Engineer</h3>
 
-<!--
-**workaholic-saurabh/workaholic-saurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=workaholic-saurabh&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👉 About Me:
+
+- 🔧 Currently working as **Linux Administrator / DevOps Engineer**
+- 🐧 Hands-on with **RHEL 7/8/9** in DC & DR environments
+- 🐳 Working on **Docker, Kubernetes, OpenShift (RHOCP)**
+- ⚙️ CI/CD pipelines using **Jenkins & Git**
+- 📊 Monitoring with **Prometheus, Nagios, OpenText OPSB**
+- 🚀 Interested in **Automation, Cloud & SRE practices**
+
+📫 **How to reach me:**  
+**Email:** saurabhchaudhary663@gmail.com  
+
+---
+
+## 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/saurabh-chaudhary-320381361" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/workaholic-saurabh" target="blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+## 🛠 Languages and Tools:
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Linux+Administrator;DevOps+Engineer;OpenShift+Enthusiast&center=true&width=500" />
+</p>
+
+---
+
+## 📌 Key Experience Highlights
+- Managing **600+ servers** across DC & DR
+- RHEL patching via **Satellite Server**
+- OpenShift cluster monitoring & CoreOS tuning
+- WebLogic, Tomcat, OHS, OAM, OUD administration
+- Incident & Change management (OBM, SMAX)
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=workaholic-saurabh&show_icons=true&theme=default" />
+</p>
+
+---
+
+⭐ *Always learning, automating, and improving infrastructure*
