@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Saurabh Chaudhary</h1>
+I'm Saurabh Chaudhary</h1>
 <h3 align="center">Linux Administrator | DevOps Engineer</h3>
 
 <p align="center">
